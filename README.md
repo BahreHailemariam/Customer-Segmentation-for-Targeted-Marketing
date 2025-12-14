@@ -56,3 +56,47 @@ Customer_Segmentation_Targeted_Marketing/
 ├── requirements.txt
 └── README.md
 ```
+
+## 🔄 Workflow Summary
+**1️⃣ Data Ingestion**
+
+- Load customer profiles and transaction data from CSV or database
+
+- Validate schema and data completeness
+
+**2️⃣ Data Cleaning**
+
+- Handle missing values and duplicates
+
+- Normalize dates, monetary values, and identifiers
+
+**3️⃣ Feature Engineering**
+
+- RFM (Recency, Frequency, Monetary) metrics
+
+- Average order value, purchase intervals
+
+- Customer lifetime indicators
+
+**4️⃣ Customer Segmentation**
+
+- Rule-based RFM segmentation
+
+- ML clustering (K-Means / DBSCAN)
+
+- Segment labeling for business interpretation
+
+**5️⃣ Analytics & KPIs**
+
+- Segment size and revenue contribution
+
+- Churn risk indicators
+
+- Campaign response readiness
+
+**6️⃣ Visualization & Insights**
+
+- Power BI dashboards for marketing teams
+
+- Segment-level performance tracking
+
