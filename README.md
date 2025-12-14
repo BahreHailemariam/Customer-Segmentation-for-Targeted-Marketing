@@ -166,3 +166,23 @@ Customer_Segmentation_Targeted_Marketing/
 
 - **Git/GitHub** – Version control & collaboration
 
+## 📈 Business Impact
+
+- Improved marketing personalization
+
+- Higher campaign conversion rates
+
+- Reduced customer churn
+
+- Data-driven segmentation strategy
+
+## 🚀 Future Enhancements
+
+- Predictive churn modeling
+
+- Real-time segmentation updates
+
+- Integration with CRM / marketing automation tools
+
+- A/B testing performance tracking
+
