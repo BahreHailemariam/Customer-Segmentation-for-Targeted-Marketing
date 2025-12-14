@@ -14,3 +14,16 @@ Using transactional and behavioral data, customers are grouped into meaningful s
 - Improve campaign ROI and customer retention
 
 - Support data-driven decision-making for marketing teams
+
+## 🧠 Key Questions Answered
+
+- Who are our most valuable customers?
+
+- Which customers are likely to churn?
+
+- How do purchasing behaviors differ across segments?
+
+- Which segments should receive discounts, loyalty rewards, or re-engagement campaigns?
+
+
+
