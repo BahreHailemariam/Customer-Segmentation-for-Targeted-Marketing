@@ -56,6 +56,39 @@ Customer_Segmentation_Targeted_Marketing/
 ├── requirements.txt
 └── README.md
 ```
+## 🧠 Analytical Approach
+
+**1.Data Preparation**
+
+- Clean raw customer transaction data
+
+- Handle missing values and outliers
+
+- Normalize behavioral metrics
+
+**2.Feature Engineering**
+
+- RFM metrics (Recency, Frequency, Monetary)
+
+- Engagement scores
+
+- Behavioral indicators
+
+**3.Segmentation Modeling**
+
+- KMeans clustering for customer grouping
+
+- DBSCAN for density-based segmentation
+
+- Cluster validation using silhouette score
+
+**4.Insights & Visualization**
+
+- Segment profiling
+
+- Revenue contribution by segment
+
+- Targeting recommendations
 
 ## 🔄 Workflow Summary
 ### 1️⃣ Data Ingestion
