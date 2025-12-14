@@ -100,3 +100,45 @@ Customer_Segmentation_Targeted_Marketing/
 
 - Segment-level performance tracking
 
+## 📊 Power BI Dashboard Overview
+### 📄 Pages Included
+### 1️⃣ Customer Segmentation Overview
+
+- Total customers by segment
+
+- Revenue contribution per segment
+
+- Segment distribution trends
+
+### 2️⃣ RFM Analysis
+
+- Recency vs Frequency scatter plots
+
+- Monetary value distribution
+
+- High-value customer identification
+
+### 3️⃣ Behavioral Insights
+
+- Purchase frequency trends
+
+- Average order value by segment
+
+- Engagement patterns
+
+### 4️⃣ Campaign Targeting
+
+- Discount-sensitive segments
+
+- Upsell & cross-sell opportunities
+
+- Re-engagement targets
+
+### 5️⃣ Churn Risk & Retention
+
+- Low-engagement customers
+
+- Early churn warning indicators
+
+- Retention campaign prioritization
+
