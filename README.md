@@ -25,5 +25,34 @@ Using transactional and behavioral data, customers are grouped into meaningful s
 
 - Which segments should receive discounts, loyalty rewards, or re-engagement campaigns?
 
-
-
+## 🗂️ Project Structure
+```powershell
+Customer_Segmentation_Targeted_Marketing/
+│
+├── data/
+│   ├── raw/                # Raw customer & transaction data
+│   └── processed/          # Cleaned & feature-engineered data
+│
+├── scripts/
+│   ├── load_data.py        # Load datasets
+│   ├── clean_data.py       # Data cleaning & preprocessing
+│   ├── feature_engineering.py  # RFM metrics & behavioral features
+│   ├── train_model.py      # Clustering models (KMeans, DBSCAN)
+│   └── app.py              # Optional Streamlit app
+│
+├── sql/
+│   ├── 01_create_tables.sql
+│   ├── 02_cleaning.sql
+│   ├── 03_rfm_segmentation.sql
+│   ├── 04_metrics.sql
+│   └── 05_views_for_powerbi.sql
+│
+├── dashboard/
+│   └── PowerBI_Report_Spec.md
+│
+├── docs/
+│   └── Workflow_Spec.md
+│
+├── requirements.txt
+└── README.md
+```
