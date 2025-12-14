@@ -186,3 +186,7 @@ Customer_Segmentation_Targeted_Marketing/
 
 - A/B testing performance tracking
 
+## 📬 Contact
+
+This project is part of a professional data analytics portfolio.
+For collaboration, feedback, or questions, feel free to reach out.
