@@ -58,19 +58,19 @@ Customer_Segmentation_Targeted_Marketing/
 ```
 
 ## 🔄 Workflow Summary
-**1️⃣ Data Ingestion**
+### 1️⃣ Data Ingestion
 
 - Load customer profiles and transaction data from CSV or database
 
 - Validate schema and data completeness
 
-**2️⃣ Data Cleaning**
+### 2️⃣ Data Cleaning
 
 - Handle missing values and duplicates
 
 - Normalize dates, monetary values, and identifiers
 
-**3️⃣ Feature Engineering**
+### 3️⃣ Feature Engineering
 
 - RFM (Recency, Frequency, Monetary) metrics
 
@@ -78,7 +78,7 @@ Customer_Segmentation_Targeted_Marketing/
 
 - Customer lifetime indicators
 
-**4️⃣ Customer Segmentation**
+### 4️⃣ Customer Segmentation
 
 - Rule-based RFM segmentation
 
@@ -86,7 +86,7 @@ Customer_Segmentation_Targeted_Marketing/
 
 - Segment labeling for business interpretation
 
-**5️⃣ Analytics & KPIs**
+### 5️⃣ Analytics & KPIs**
 
 - Segment size and revenue contribution
 
@@ -94,7 +94,7 @@ Customer_Segmentation_Targeted_Marketing/
 
 - Campaign response readiness
 
-**6️⃣ Visualization & Insights**
+### 6️⃣ Visualization & Insights
 
 - Power BI dashboards for marketing teams
 
@@ -141,4 +141,28 @@ Customer_Segmentation_Targeted_Marketing/
 - Early churn warning indicators
 
 - Retention campaign prioritization
+
+## 🧮 Sample Metrics & KPIs
+
+- Customer Lifetime Value (CLV)
+
+- Average Order Value (AOV)
+
+- Repeat Purchase Rate
+
+- Segment Revenue Share
+
+- Churn Probability Score
+
+## 🛠️ Tools & Technologies
+
+- **SQL** – Data modeling, RFM analysis, metrics
+
+- **Python** – pandas, scikit-learn, NumPy
+
+- **Power BI** – Interactive dashboards & reporting
+
+- **Streamlit** – Optional real-time segmentation app
+
+- **Git/GitHub** – Version control & collaboration
 
