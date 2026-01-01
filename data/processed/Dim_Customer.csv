@@ -1,0 +1,913 @@
+﻿Customer_ID,Loyalty_Program_Member,Customer_Lifetime_Segment
+00-107-4749,No,Medium Value
+00-149-4481,Yes,VIP
+00-265-0556,No,Low Value
+00-275-9990,Yes,High Value
+00-285-9607,Yes,VIP
+00-335-5034,Yes,VIP
+00-477-9449,Yes,VIP
+00-496-3067,No,Medium Value
+00-520-4376,No,Low Value
+00-733-8770,No,Low Value
+01-023-2094,Yes,VIP
+01-089-2223,No,Medium Value
+01-404-3425,Yes,High Value
+01-484-8220,Yes,High Value
+01-799-2615,No,Low Value
+01-925-4021,No,Medium Value
+02-004-0620,No,Medium Value
+02-055-8248,No,Medium Value
+02-100-4320,No,Low Value
+02-653-5884,No,Medium Value
+02-676-9312,No,Medium Value
+02-677-6735,No,Medium Value
+02-711-1034,No,Low Value
+02-725-7664,No,Medium Value
+02-911-0447,Yes,VIP
+03-023-9932,Yes,VIP
+03-102-0288,No,Medium Value
+03-422-8710,Yes,VIP
+03-623-6767,Yes,VIP
+03-669-7519,No,Medium Value
+03-827-4021,No,Low Value
+03-874-9055,Yes,VIP
+03-950-6074,Yes,High Value
+03-977-8103,Yes,High Value
+03-991-2098,No,Medium Value
+03-992-3728,Yes,High Value
+04-349-6759,No,Medium Value
+04-352-1558,No,Low Value
+04-465-1819,Yes,High Value
+04-468-5487,No,Medium Value
+04-545-9162,Yes,VIP
+04-563-9091,Yes,High Value
+04-609-7885,No,Medium Value
+04-660-2742,No,Medium Value
+04-809-8989,No,Medium Value
+04-829-7037,No,Low Value
+04-832-3559,No,Low Value
+05-067-9686,No,Medium Value
+05-167-0833,Yes,High Value
+05-465-8765,Yes,High Value
+05-506-7216,Yes,High Value
+05-710-6109,No,Low Value
+05-857-1572,Yes,VIP
+05-975-6985,No,Medium Value
+06-008-2805,Yes,VIP
+06-160-8063,No,Low Value
+06-237-7338,Yes,High Value
+06-357-6548,No,Medium Value
+06-594-3417,Yes,High Value
+06-638-0433,No,Low Value
+06-647-3248,No,Low Value
+06-764-5496,Yes,VIP
+06-767-5206,No,Low Value
+07-024-4995,Yes,High Value
+07-211-9364,No,Low Value
+07-323-0255,Yes,VIP
+07-395-5818,No,Medium Value
+07-402-7433,Yes,High Value
+07-479-3919,No,Medium Value
+07-560-6637,No,Medium Value
+07-751-9620,No,Medium Value
+07-816-2673,No,Low Value
+07-834-3350,No,Medium Value
+07-958-2231,Yes,High Value
+08-117-9893,Yes,VIP
+08-185-6608,Yes,VIP
+08-584-8296,No,Medium Value
+08-614-6177,No,Low Value
+08-652-2085,No,Medium Value
+08-733-0300,No,Medium Value
+08-755-1170,No,Low Value
+08-806-0588,Yes,VIP
+08-977-4418,Yes,High Value
+09-216-1957,No,Medium Value
+09-258-0424,Yes,VIP
+09-332-0236,No,Low Value
+09-346-4992,No,Medium Value
+09-369-0588,Yes,High Value
+09-443-7536,No,Medium Value
+09-513-4923,No,Medium Value
+09-737-8354,No,Medium Value
+09-783-7921,No,Medium Value
+09-948-3150,Yes,VIP
+10-079-8237,Yes,High Value
+10-232-0685,Yes,High Value
+10-300-8072,No,Medium Value
+10-430-5821,No,Medium Value
+10-870-3357,Yes,VIP
+10-961-9336,No,Low Value
+11-121-0709,Yes,VIP
+11-802-5604,No,Low Value
+11-850-1953,No,Medium Value
+11-975-9054,Yes,High Value
+12-029-9344,No,Medium Value
+12-409-5166,Yes,High Value
+12-417-5609,Yes,VIP
+12-440-5464,No,Medium Value
+12-699-6543,No,Medium Value
+12-839-8066,Yes,VIP
+12-851-1771,No,Low Value
+13-015-8097,No,Medium Value
+13-297-9777,Yes,High Value
+13-571-6506,Yes,High Value
+13-588-2488,No,Medium Value
+13-588-5783,No,Low Value
+13-618-9438,Yes,High Value
+13-792-4356,No,Medium Value
+13-848-5757,Yes,VIP
+14-025-2335,No,Low Value
+14-118-5229,Yes,VIP
+14-249-1256,No,Low Value
+14-305-8712,Yes,VIP
+14-364-4904,No,Medium Value
+14-415-2802,Yes,VIP
+14-603-9698,Yes,High Value
+14-709-8547,No,Low Value
+14-854-9545,Yes,VIP
+15-146-4456,Yes,VIP
+15-152-9751,Yes,High Value
+15-354-9904,Yes,High Value
+15-421-1255,Yes,VIP
+15-530-3861,No,Low Value
+15-640-6493,No,Medium Value
+15-663-7994,Yes,VIP
+15-711-4107,No,Low Value
+16-070-0138,No,Medium Value
+16-583-2801,Yes,VIP
+17-032-6274,No,Medium Value
+17-198-5155,No,Low Value
+17-213-2834,Yes,High Value
+17-246-6194,Yes,High Value
+17-328-4678,No,Low Value
+17-344-8603,Yes,High Value
+17-364-8685,Yes,High Value
+17-551-9779,No,Medium Value
+17-648-0171,No,Low Value
+17-763-9416,Yes,VIP
+18-047-5540,No,Low Value
+18-097-5707,No,Medium Value
+18-263-0366,No,Low Value
+18-452-1635,No,Medium Value
+18-518-0140,Yes,High Value
+18-593-8611,No,Medium Value
+18-605-0795,Yes,High Value
+18-614-2070,Yes,High Value
+18-633-9387,No,Low Value
+18-832-6916,No,Low Value
+18-841-7253,Yes,VIP
+18-938-9896,Yes,VIP
+19-116-4723,Yes,High Value
+19-184-7665,No,Medium Value
+19-311-9149,Yes,High Value
+19-344-0102,Yes,VIP
+19-383-9741,No,Medium Value
+19-386-9088,Yes,VIP
+19-560-0717,Yes,VIP
+19-643-1879,No,Medium Value
+19-667-0201,No,Medium Value
+19-689-4556,Yes,VIP
+19-873-9468,Yes,VIP
+19-885-2597,No,Medium Value
+19-925-2376,No,Medium Value
+19-933-8095,No,Low Value
+19-999-0134,Yes,High Value
+20-157-8631,No,Low Value
+20-419-0341,Yes,VIP
+20-421-2544,No,Medium Value
+20-460-9796,No,Medium Value
+20-562-2569,Yes,VIP
+20-648-1010,No,Low Value
+20-699-9217,Yes,High Value
+20-830-4758,No,Medium Value
+20-939-3906,No,Low Value
+21-048-8669,No,Medium Value
+21-232-1397,No,Medium Value
+21-297-1223,No,Low Value
+21-300-2001,Yes,VIP
+21-734-0212,Yes,VIP
+21-755-8745,No,Low Value
+21-783-9242,No,Low Value
+21-808-2293,Yes,VIP
+21-821-6398,No,Low Value
+21-959-5766,No,Medium Value
+22-022-9256,Yes,High Value
+22-039-6819,No,Medium Value
+22-053-4627,Yes,VIP
+22-106-8347,Yes,High Value
+22-234-9315,Yes,High Value
+22-311-5460,No,Low Value
+22-352-0576,Yes,VIP
+22-382-9636,Yes,VIP
+22-414-4955,Yes,High Value
+22-483-3115,Yes,High Value
+22-579-3978,No,Low Value
+22-692-3470,No,Medium Value
+22-860-9860,Yes,VIP
+22-981-6595,No,Medium Value
+23-039-9347,No,Medium Value
+23-066-1915,Yes,High Value
+23-085-0811,Yes,High Value
+23-246-5927,No,Medium Value
+23-253-2565,Yes,VIP
+23-302-7502,No,Low Value
+23-451-9920,No,Low Value
+23-537-0742,No,Medium Value
+23-617-2637,No,Medium Value
+23-752-2213,No,Medium Value
+23-758-1012,No,Medium Value
+23-794-8196,No,Medium Value
+23-949-1954,Yes,VIP
+23-985-3535,Yes,High Value
+24-109-2173,Yes,High Value
+24-241-7171,No,Medium Value
+24-272-6205,No,Medium Value
+24-371-5870,Yes,High Value
+24-591-4327,Yes,High Value
+24-662-2119,No,Low Value
+24-853-1635,Yes,VIP
+24-878-4507,Yes,High Value
+25-085-7917,No,Medium Value
+25-096-6830,No,Medium Value
+25-285-7453,No,Low Value
+25-286-8786,Yes,VIP
+25-485-2023,No,Low Value
+25-502-1415,No,Low Value
+25-560-4506,No,Medium Value
+25-839-8670,Yes,High Value
+25-866-7286,No,Medium Value
+26-028-2671,Yes,VIP
+26-150-0209,No,Low Value
+26-235-6745,No,Low Value
+26-521-8328,Yes,High Value
+26-596-5461,No,Medium Value
+26-672-1285,Yes,VIP
+26-828-2720,Yes,VIP
+27-017-7173,No,Medium Value
+27-018-2262,No,Low Value
+27-100-0661,No,Medium Value
+27-111-2242,No,Medium Value
+27-262-6874,Yes,VIP
+27-347-7437,Yes,VIP
+27-439-9545,No,Low Value
+27-463-5671,No,Low Value
+27-543-7069,No,Low Value
+27-571-9402,No,Low Value
+27-613-5005,Yes,VIP
+27-619-9264,Yes,High Value
+27-672-6081,No,Medium Value
+27-806-4972,Yes,VIP
+27-843-5553,Yes,High Value
+27-941-4995,Yes,VIP
+28-123-8406,No,Low Value
+28-225-4286,No,Medium Value
+28-395-9872,No,Low Value
+28-676-0614,No,Medium Value
+28-764-3337,No,Medium Value
+28-832-2885,No,Medium Value
+28-855-1639,Yes,VIP
+28-862-5550,Yes,VIP
+28-874-8938,No,Medium Value
+28-947-4295,Yes,High Value
+29-067-4901,No,Medium Value
+29-319-4519,No,Medium Value
+29-341-6463,No,Low Value
+29-374-1297,Yes,VIP
+29-392-9296,No,Medium Value
+29-438-8126,Yes,VIP
+29-625-7057,Yes,VIP
+29-779-3457,Yes,High Value
+29-779-7209,Yes,High Value
+29-827-8515,No,Medium Value
+29-987-3969,No,Medium Value
+30-038-8752,Yes,High Value
+30-133-5120,Yes,VIP
+30-417-6981,No,Medium Value
+30-520-8656,No,Medium Value
+30-522-1574,No,Low Value
+30-528-9105,No,Medium Value
+30-567-4471,Yes,High Value
+30-735-8744,Yes,VIP
+30-839-5589,No,Medium Value
+30-975-0306,No,Low Value
+30-987-7421,Yes,High Value
+31-060-2716,Yes,VIP
+31-088-6950,No,Low Value
+31-147-6197,No,Medium Value
+31-218-0024,No,Medium Value
+31-364-4144,No,Low Value
+31-395-1286,No,Medium Value
+31-491-8457,Yes,VIP
+31-783-9785,No,Medium Value
+31-788-0864,No,Medium Value
+31-927-7787,Yes,VIP
+32-314-2958,Yes,VIP
+32-338-5967,No,Low Value
+32-457-2982,Yes,VIP
+32-799-7704,Yes,VIP
+33-200-7615,No,Medium Value
+33-203-4230,No,Medium Value
+33-243-8793,No,Medium Value
+33-264-2822,Yes,High Value
+33-405-7978,No,Medium Value
+33-467-2534,No,Medium Value
+33-484-6674,No,Medium Value
+33-519-4214,Yes,High Value
+33-609-0598,Yes,High Value
+33-787-2143,No,Medium Value
+34-016-7909,No,Low Value
+34-094-1923,No,Medium Value
+34-095-3364,Yes,High Value
+34-237-3943,No,Medium Value
+34-265-8558,Yes,VIP
+34-375-8138,No,Low Value
+34-788-8387,Yes,VIP
+34-846-7805,No,Low Value
+34-874-7357,No,Medium Value
+35-122-5020,No,Low Value
+35-192-9050,Yes,High Value
+35-198-9248,No,Medium Value
+35-418-0288,No,Medium Value
+35-644-3184,No,Medium Value
+35-850-8676,Yes,VIP
+35-853-2222,Yes,High Value
+35-879-0014,No,Low Value
+35-880-9374,Yes,High Value
+35-907-0586,No,Medium Value
+36-240-3240,No,Low Value
+36-274-5269,No,Medium Value
+36-323-3504,Yes,High Value
+36-340-8494,No,Medium Value
+36-444-5336,No,Medium Value
+36-593-2907,No,Medium Value
+36-632-2460,No,Low Value
+36-649-0081,Yes,VIP
+36-835-7445,No,Low Value
+36-948-6994,Yes,High Value
+37-037-1765,Yes,VIP
+37-065-3182,No,Medium Value
+37-100-8709,No,Low Value
+37-101-4922,No,Low Value
+37-126-7954,No,Medium Value
+37-128-5425,Yes,High Value
+37-283-9076,No,Low Value
+37-361-8691,Yes,VIP
+37-468-8133,Yes,VIP
+37-513-5073,No,Medium Value
+37-560-7247,Yes,High Value
+37-611-6911,Yes,High Value
+37-748-4988,No,Low Value
+37-783-6086,No,Low Value
+38-069-8615,No,Medium Value
+38-242-3251,No,Medium Value
+38-478-2681,No,Medium Value
+38-587-1781,No,Low Value
+38-830-6976,No,Low Value
+38-881-0766,No,VIP
+38-912-1128,Yes,High Value
+38-935-1865,No,Medium Value
+38-940-4942,Yes,VIP
+38-943-5744,No,Medium Value
+39-075-3518,No,Medium Value
+39-090-0124,No,Low Value
+39-107-6852,Yes,VIP
+39-274-2175,No,Low Value
+39-499-3854,No,Medium Value
+39-636-5871,Yes,High Value
+39-867-1989,Yes,High Value
+39-952-4459,No,Medium Value
+40-149-8247,Yes,High Value
+40-199-1803,Yes,High Value
+40-224-1057,Yes,VIP
+40-232-5631,No,Medium Value
+40-347-2903,Yes,VIP
+40-450-4266,No,Low Value
+40-520-3271,No,Medium Value
+41-009-7879,No,Medium Value
+41-130-2570,Yes,High Value
+41-215-6092,No,Medium Value
+41-366-4205,No,Low Value
+41-501-9276,Yes,VIP
+41-602-4042,Yes,High Value
+41-750-4105,Yes,High Value
+41-816-7753,No,Medium Value
+41-854-0707,No,Medium Value
+41-934-7739,Yes,VIP
+42-101-8525,Yes,High Value
+42-207-5005,Yes,VIP
+42-518-2602,Yes,VIP
+42-674-3987,Yes,VIP
+42-859-2475,Yes,VIP
+42-898-6421,No,Low Value
+42-969-0735,No,Medium Value
+43-172-9431,No,Low Value
+43-386-2489,No,Medium Value
+43-616-8365,Yes,VIP
+43-664-4451,No,Medium Value
+43-671-9834,No,Low Value
+43-715-8777,Yes,VIP
+43-884-2577,No,Medium Value
+43-920-9499,Yes,High Value
+43-990-6454,Yes,VIP
+44-674-4037,Yes,High Value
+44-715-9594,No,Medium Value
+44-786-7696,No,Low Value
+44-938-7475,No,Low Value
+44-949-9040,Yes,VIP
+45-073-7243,Yes,High Value
+45-337-1798,Yes,High Value
+45-584-7333,Yes,High Value
+45-631-4619,Yes,High Value
+45-776-7217,No,Low Value
+45-795-1873,Yes,High Value
+46-098-9737,Yes,VIP
+46-230-8307,Yes,VIP
+46-452-3822,No,Medium Value
+46-662-1571,Yes,High Value
+46-678-4172,Yes,High Value
+46-681-0764,No,Low Value
+46-779-7065,Yes,VIP
+46-978-3874,No,Low Value
+47-073-6440,Yes,VIP
+47-178-9529,No,Medium Value
+47-225-8686,No,Low Value
+47-356-9730,Yes,VIP
+47-460-8015,Yes,High Value
+47-501-3435,No,Medium Value
+47-528-3961,No,Medium Value
+47-710-5471,No,Medium Value
+47-720-9520,No,Low Value
+47-931-2642,No,Medium Value
+47-947-4888,Yes,High Value
+48-203-9118,Yes,High Value
+48-271-1908,Yes,High Value
+48-315-0196,No,Medium Value
+48-343-1220,Yes,High Value
+48-609-7715,Yes,VIP
+48-630-6410,Yes,VIP
+48-825-0400,Yes,VIP
+48-918-4473,Yes,VIP
+49-037-2300,No,Medium Value
+49-469-9163,No,Low Value
+49-476-1729,Yes,High Value
+49-825-3438,Yes,VIP
+49-891-9711,Yes,High Value
+50-000-9588,Yes,VIP
+50-303-1693,No,Medium Value
+50-395-1941,No,Low Value
+50-447-5171,No,Medium Value
+50-510-5119,Yes,High Value
+50-637-1630,Yes,VIP
+51-116-5937,No,Medium Value
+51-220-3072,No,Medium Value
+51-302-9537,Yes,VIP
+51-313-7293,No,Medium Value
+51-320-2801,No,Low Value
+51-387-9144,Yes,VIP
+51-415-1931,No,Low Value
+51-431-7150,No,Low Value
+51-546-9992,No,Medium Value
+51-917-0766,No,Medium Value
+52-005-9914,No,Medium Value
+52-150-4629,No,Low Value
+52-240-3825,Yes,High Value
+52-491-3386,Yes,VIP
+52-726-9328,No,Medium Value
+52-779-8972,No,Medium Value
+52-908-9971,Yes,VIP
+53-013-1026,No,Low Value
+53-042-5685,Yes,High Value
+53-091-2176,No,Low Value
+53-102-9949,No,Medium Value
+53-143-6147,No,Medium Value
+53-380-3968,Yes,VIP
+53-409-1176,Yes,VIP
+53-437-2629,Yes,VIP
+53-459-7870,No,Medium Value
+53-595-7635,Yes,VIP
+53-639-3774,No,VIP
+53-667-0793,No,Low Value
+53-690-5759,No,Medium Value
+53-784-1855,No,Low Value
+53-843-5619,No,Low Value
+53-865-9342,No,Medium Value
+53-951-2529,Yes,High Value
+54-002-5845,No,Medium Value
+54-164-2243,No,Medium Value
+54-193-3526,No,Low Value
+54-207-8349,Yes,High Value
+54-238-5459,No,Low Value
+54-439-4748,Yes,High Value
+54-634-0814,No,Low Value
+54-680-5344,Yes,High Value
+54-877-5699,Yes,High Value
+54-936-4361,No,Medium Value
+55-163-1389,Yes,VIP
+55-237-7991,No,Low Value
+55-279-3045,No,Medium Value
+55-301-9368,Yes,High Value
+55-569-9247,No,Medium Value
+55-570-3804,No,Medium Value
+55-580-7707,No,Medium Value
+55-620-7906,No,Medium Value
+55-846-2579,Yes,High Value
+55-876-7407,Yes,VIP
+55-944-9669,No,Medium Value
+55-955-9889,No,Medium Value
+56-085-0464,No,Low Value
+56-453-8263,No,Medium Value
+56-506-4709,No,Low Value
+56-592-0089,No,Medium Value
+56-719-7145,Yes,High Value
+56-782-9001,No,Low Value
+56-810-2066,Yes,VIP
+57-000-8646,No,Medium Value
+57-345-3921,Yes,High Value
+57-372-5969,Yes,VIP
+57-410-7415,No,Medium Value
+57-587-4005,No,Medium Value
+57-623-5362,No,Medium Value
+57-797-8139,Yes,High Value
+57-989-1487,Yes,High Value
+58-059-8187,No,Medium Value
+58-233-5963,Yes,High Value
+58-487-8848,No,Medium Value
+58-502-7490,No,Medium Value
+58-528-6262,No,Low Value
+58-623-8404,No,Low Value
+58-788-8938,Yes,VIP
+59-080-5779,Yes,VIP
+59-261-4453,Yes,VIP
+59-891-2990,Yes,High Value
+59-971-0799,Yes,VIP
+59-997-3903,Yes,High Value
+60-005-5187,No,Medium Value
+60-073-3575,No,Medium Value
+60-198-5417,No,Medium Value
+60-470-3563,Yes,VIP
+60-618-2561,No,Low Value
+60-834-3348,Yes,VIP
+60-838-4334,Yes,VIP
+61-176-8712,No,Medium Value
+61-212-1117,Yes,VIP
+61-286-0069,No,Medium Value
+61-453-3503,No,Medium Value
+61-627-1822,Yes,VIP
+61-663-9008,Yes,VIP
+61-794-8438,No,Low Value
+61-926-1691,No,Medium Value
+61-951-7929,Yes,VIP
+62-198-2511,Yes,High Value
+62-493-5282,No,Medium Value
+62-687-5354,No,Medium Value
+62-701-1037,No,Medium Value
+62-720-2922,No,Medium Value
+62-797-9254,No,Medium Value
+62-892-2088,Yes,High Value
+62-974-7965,No,Low Value
+62-989-8214,Yes,High Value
+63-304-1852,No,Medium Value
+63-631-8261,No,Low Value
+63-680-7694,No,Medium Value
+63-684-4073,Yes,High Value
+63-743-6962,Yes,High Value
+63-808-3641,No,Medium Value
+63-964-6954,No,Low Value
+64-031-2046,Yes,High Value
+64-090-3433,No,Medium Value
+64-120-6212,Yes,High Value
+64-166-9097,Yes,High Value
+64-180-2404,Yes,High Value
+64-490-6975,Yes,High Value
+64-641-7874,Yes,VIP
+64-706-7841,Yes,High Value
+64-769-5737,Yes,VIP
+64-799-3174,No,Low Value
+64-803-7087,No,Medium Value
+64-846-7450,Yes,VIP
+64-906-4475,No,Medium Value
+64-915-2968,Yes,VIP
+65-036-2410,Yes,High Value
+65-167-9819,Yes,VIP
+65-249-5416,No,Low Value
+65-359-4645,Yes,VIP
+65-431-1264,No,Medium Value
+65-457-2840,No,Medium Value
+65-533-1660,Yes,VIP
+65-539-9955,Yes,High Value
+66-033-0540,No,Low Value
+66-050-6391,No,Low Value
+66-085-1226,Yes,VIP
+66-086-2306,No,Medium Value
+66-515-3648,Yes,High Value
+66-557-1474,No,Low Value
+66-772-9922,Yes,High Value
+66-894-5431,Yes,VIP
+66-949-9895,No,Low Value
+67-036-4295,No,Medium Value
+67-037-2087,Yes,VIP
+67-159-7366,Yes,VIP
+67-209-0990,Yes,High Value
+67-323-7406,No,Medium Value
+67-438-2378,No,Medium Value
+67-593-9579,No,Low Value
+67-599-9267,No,Medium Value
+67-639-5838,No,Medium Value
+67-676-5945,Yes,VIP
+67-697-2331,No,Medium Value
+67-935-7964,No,Medium Value
+67-937-6624,No,Medium Value
+67-939-2463,No,Medium Value
+68-296-5978,No,Medium Value
+68-391-7279,Yes,VIP
+68-458-0904,No,Low Value
+68-488-7343,Yes,VIP
+68-507-4747,No,Medium Value
+68-512-0568,Yes,VIP
+68-971-6148,Yes,VIP
+69-157-6752,Yes,High Value
+69-157-9577,Yes,High Value
+69-692-0614,No,Medium Value
+70-014-6406,No,Medium Value
+70-108-1493,Yes,High Value
+70-207-6999,Yes,High Value
+70-699-5799,Yes,High Value
+70-761-3550,No,Medium Value
+70-774-7728,Yes,High Value
+70-895-5298,Yes,VIP
+71-197-8227,No,Medium Value
+71-354-5174,No,Medium Value
+71-436-6908,No,Medium Value
+71-473-2656,Yes,High Value
+71-486-8561,No,Medium Value
+71-568-0867,No,Medium Value
+71-573-6085,No,Low Value
+71-667-2334,Yes,High Value
+71-780-8195,No,Medium Value
+71-817-5422,No,Medium Value
+71-876-9118,Yes,VIP
+71-959-3896,No,Low Value
+72-324-1243,No,Low Value
+72-336-1992,Yes,High Value
+72-339-1854,Yes,High Value
+72-431-5021,Yes,VIP
+72-454-2741,No,Medium Value
+72-590-6161,Yes,VIP
+72-694-4159,Yes,High Value
+72-728-4406,No,Low Value
+72-830-1211,Yes,VIP
+73-097-0986,No,Medium Value
+73-139-4306,No,Low Value
+73-145-5784,Yes,High Value
+73-259-8940,Yes,High Value
+73-359-1998,No,Medium Value
+73-367-8478,No,Low Value
+73-434-2308,Yes,High Value
+73-698-2326,No,Medium Value
+73-827-2774,Yes,High Value
+73-942-8440,No,Low Value
+74-022-7557,Yes,High Value
+74-033-1145,Yes,VIP
+74-051-7865,Yes,High Value
+74-281-3421,No,Low Value
+74-353-6312,No,Low Value
+74-431-0242,No,Medium Value
+74-478-5950,Yes,VIP
+74-483-2893,No,Low Value
+74-509-4985,No,Medium Value
+74-882-6648,No,Low Value
+75-083-3608,Yes,VIP
+75-210-7391,No,Medium Value
+75-518-2831,No,Low Value
+75-526-2611,No,Medium Value
+75-847-7630,Yes,VIP
+75-915-9803,No,Medium Value
+75-953-8663,Yes,VIP
+75-964-5589,Yes,VIP
+76-148-9413,No,Low Value
+76-213-5806,No,Low Value
+76-382-7162,Yes,VIP
+76-501-6422,No,Medium Value
+76-561-2427,No,Medium Value
+76-620-2994,Yes,VIP
+76-848-9229,No,Low Value
+76-910-2337,No,Low Value
+76-982-8107,No,Low Value
+77-031-4898,Yes,High Value
+77-178-6086,Yes,High Value
+77-241-7621,Yes,VIP
+77-626-7240,No,Low Value
+77-742-5663,Yes,High Value
+77-761-7475,No,Medium Value
+77-796-5786,Yes,High Value
+78-091-8662,No,Low Value
+78-116-8349,No,Medium Value
+78-214-5658,No,Low Value
+78-272-6417,No,Medium Value
+78-361-5100,No,Low Value
+78-503-0416,No,Low Value
+78-613-1546,No,Low Value
+78-822-9328,Yes,High Value
+78-824-1887,No,Low Value
+78-826-3039,No,Medium Value
+78-905-2660,No,Medium Value
+79-052-8470,Yes,High Value
+79-297-1061,No,Low Value
+79-592-5396,No,Medium Value
+79-711-6779,Yes,VIP
+79-759-6726,No,Medium Value
+79-884-5600,No,Medium Value
+79-902-8144,No,Low Value
+79-939-2140,No,Low Value
+79-939-5393,No,Medium Value
+79-960-1714,Yes,High Value
+79-973-7862,No,Low Value
+80-277-3242,Yes,High Value
+80-360-6324,Yes,High Value
+80-508-9866,No,Medium Value
+80-607-9947,Yes,VIP
+80-684-5072,No,Low Value
+80-728-6133,No,Medium Value
+81-014-4502,Yes,VIP
+81-054-5343,No,Low Value
+81-225-6647,No,Low Value
+81-479-0790,Yes,High Value
+81-515-5823,No,Medium Value
+81-580-3810,No,Low Value
+81-604-7906,No,Low Value
+81-814-3498,Yes,VIP
+81-877-9170,No,Medium Value
+81-926-9297,No,Medium Value
+82-014-2564,Yes,VIP
+82-133-0444,Yes,VIP
+82-304-6495,Yes,VIP
+82-389-2029,No,Medium Value
+82-467-3300,No,Medium Value
+82-474-5074,No,Low Value
+82-561-4233,Yes,VIP
+82-572-9091,No,Medium Value
+82-671-7236,Yes,VIP
+82-692-9306,Yes,High Value
+82-726-1255,No,Low Value
+82-864-1154,Yes,VIP
+82-975-8569,No,Low Value
+82-990-0504,Yes,High Value
+83-003-2165,Yes,VIP
+83-427-3218,Yes,VIP
+83-455-7266,No,Medium Value
+83-561-3374,Yes,VIP
+83-670-9273,No,Medium Value
+83-714-9649,No,Medium Value
+83-752-5439,Yes,VIP
+83-792-5141,No,Low Value
+83-982-5300,Yes,High Value
+84-162-8799,Yes,High Value
+84-188-6577,No,Medium Value
+84-208-7045,No,Low Value
+84-260-6464,No,Low Value
+84-315-7189,No,VIP
+84-337-1016,Yes,High Value
+84-458-6432,Yes,High Value
+84-459-7736,Yes,High Value
+84-538-0238,Yes,VIP
+84-637-9188,No,Medium Value
+84-649-5117,Yes,VIP
+84-724-8407,Yes,High Value
+84-765-0748,Yes,High Value
+84-894-9222,Yes,VIP
+84-934-2483,Yes,High Value
+84-954-2973,No,Low Value
+85-192-9218,No,Medium Value
+85-366-1482,No,Medium Value
+85-391-1888,Yes,VIP
+85-467-6564,Yes,VIP
+85-666-7449,Yes,High Value
+85-691-4293,Yes,VIP
+85-738-6864,No,Low Value
+85-738-8909,No,Low Value
+85-885-6579,Yes,High Value
+85-922-0190,No,Medium Value
+86-044-1071,Yes,VIP
+86-068-2133,No,Medium Value
+86-097-9642,No,Low Value
+86-182-9556,No,Medium Value
+86-257-9581,Yes,VIP
+86-268-2904,No,Medium Value
+86-359-7320,No,Low Value
+86-668-1045,Yes,High Value
+86-749-6914,No,Medium Value
+86-771-9082,Yes,VIP
+86-917-7481,No,Medium Value
+87-056-8987,Yes,VIP
+87-079-0237,No,Medium Value
+87-290-8263,Yes,High Value
+87-418-1400,No,Medium Value
+87-499-6916,Yes,VIP
+87-518-0375,No,Low Value
+87-727-6434,No,Low Value
+87-806-4478,No,Medium Value
+88-000-9227,Yes,High Value
+88-051-0567,Yes,High Value
+88-167-7129,No,Medium Value
+88-313-2633,No,Low Value
+88-395-8741,No,VIP
+88-661-4689,No,Medium Value
+89-189-3295,No,Medium Value
+89-194-0596,Yes,High Value
+89-249-8369,Yes,VIP
+89-302-8461,No,Medium Value
+89-392-5002,No,Medium Value
+89-438-5310,No,Medium Value
+89-724-2536,No,Low Value
+89-730-1134,No,Low Value
+89-833-7175,No,Medium Value
+89-883-2101,No,Medium Value
+89-997-9041,Yes,High Value
+90-069-8934,No,Low Value
+90-093-0469,Yes,VIP
+90-144-9193,Yes,VIP
+90-170-1951,No,Medium Value
+90-272-5701,Yes,High Value
+90-322-7329,Yes,High Value
+90-363-8040,Yes,VIP
+90-569-7391,No,Medium Value
+90-602-3583,No,Medium Value
+90-822-7664,No,Medium Value
+90-858-0453,No,Low Value
+90-888-8726,Yes,High Value
+90-918-2833,No,Low Value
+91-053-3261,Yes,VIP
+91-199-9097,Yes,High Value
+91-440-0011,Yes,VIP
+91-532-5399,No,Medium Value
+91-558-5922,Yes,VIP
+91-570-2695,No,Low Value
+91-572-6135,Yes,High Value
+91-603-1565,Yes,VIP
+91-695-8237,No,Medium Value
+91-761-9492,Yes,High Value
+91-789-3191,No,Medium Value
+91-810-3612,Yes,High Value
+91-857-0797,Yes,VIP
+92-142-4328,Yes,VIP
+92-142-9480,Yes,High Value
+92-908-5062,No,Low Value
+92-946-7398,Yes,High Value
+93-093-0556,Yes,VIP
+93-356-8589,Yes,High Value
+93-413-4758,No,Medium Value
+93-455-0576,Yes,VIP
+93-473-7248,Yes,VIP
+93-649-9356,Yes,High Value
+93-675-1619,No,Medium Value
+93-810-4051,No,Low Value
+93-867-8303,No,Medium Value
+93-957-6269,No,Medium Value
+94-120-9525,Yes,High Value
+94-212-7169,Yes,High Value
+94-288-4423,Yes,High Value
+94-408-2581,Yes,VIP
+94-495-3402,No,Medium Value
+94-682-4886,No,Medium Value
+94-692-4313,No,Low Value
+94-746-2001,Yes,VIP
+94-969-6819,No,Low Value
+94-985-5336,Yes,High Value
+95-112-6724,Yes,High Value
+95-148-1769,No,Low Value
+95-478-2650,Yes,VIP
+95-525-0842,No,Low Value
+95-528-2313,Yes,VIP
+95-675-7816,Yes,High Value
+95-876-9757,Yes,High Value
+95-999-0984,No,Medium Value
+96-079-9597,No,Low Value
+96-121-0629,Yes,High Value
+96-140-1936,Yes,VIP
+96-229-1698,No,Low Value
+96-484-1000,No,Medium Value
+96-496-9833,Yes,VIP
+96-764-3843,Yes,High Value
+96-772-7220,Yes,High Value
+96-915-4091,Yes,High Value
+97-237-3483,No,Medium Value
+97-463-0048,Yes,High Value
+97-505-8416,Yes,High Value
+97-715-3606,No,Low Value
+97-738-8095,Yes,VIP
+98-130-8811,No,Medium Value
+98-238-6733,Yes,VIP
+98-376-8787,No,Low Value
+98-535-8497,No,Low Value
+98-559-6096,No,Medium Value
+98-585-4742,No,Low Value
+98-817-6731,No,Low Value
+99-080-9462,Yes,VIP
+99-089-1930,Yes,High Value
+99-316-9993,No,Low Value
+99-477-8256,Yes,High Value
+99-581-5577,Yes,VIP
+99-643-9845,No,Low Value
+99-771-9310,Yes,VIP
+99-945-7193,No,Medium Value
